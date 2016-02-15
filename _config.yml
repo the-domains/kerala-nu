@@ -1,4 +1,4 @@
-layout_spectrum: 0.8808511
+layout_spectrum: 1
 name: Kerala.nu
 collections:
   - index:
@@ -14,13 +14,13 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 1
-  lightness: 0.1851064
-  saturation: 1
-  rhythmicContrast: 0.9723404
+  lightness: 0.4144032
+  saturation: 0.7510638
+  rhythmicContrast: 0.9761706
   brandColors:
     - '#D1B499'
     - '#2F2017'
     - '#FDFFFA'
     - '#915D26'
     - '#FCDF77'
-typography_spectrum: 0.2042553
+typography_spectrum: 0.0477651
