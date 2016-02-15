@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.0477651
-color:
-  lightness: 0.4144032
-  brandStrength: 1
-  saturation: 0.7510638
-  rhythmicContrast: 0.9761706
-  brandColors:
-    - '#050303'
-    - '#87C7F2'
-    - '#91A39A'
-    - '#D7EBE0'
-    - '#1E384C'
+layout_spectrum: 0.8808511
 name: Kerala.nu
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 1
+  lightness: 0.1851064
+  saturation: 1
+  rhythmicContrast: 0.9723404
+  brandColors:
+    - '#D1B499'
+    - '#2F2017'
+    - '#FDFFFA'
+    - '#915D26'
+    - '#FCDF77'
+typography_spectrum: 0.2042553
