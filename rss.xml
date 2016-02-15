@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kerala.nu]]></title>
+        <description><![CDATA[Kerala.nu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 11:29:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Muddi Attam (Head Banging) Cermony by 2 girls.]]></title>
+            <description><![CDATA[<article><h1>The Muddi Attam (Head Banging) Cermony by 2 girls.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d5b57e2dd4c843dd1689903b837cfca29af103.png"></article>]]></description>
+            <link>undefinedthe-muddi-attam-head-banging-cermony-by-2-girls/index.html</link>
+            <guid isPermaLink="false">8c1c41f1-5a2f-4654-9116-47c138026200</guid>
+            <pubDate>Mon, 15 Feb 2016 11:29:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
