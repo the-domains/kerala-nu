@@ -1,26 +1,26 @@
-layout_spectrum: 1
-name: Kerala.nu
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.0477651
 color:
-  brandStrength: 1
-  lightness: 0.4144032
   saturation: 0.7510638
-  rhythmicContrast: 0.9761706
+  brandStrength: 0.09398496
+  lightness: 0.4144032
   brandColors:
     - '#D1B499'
     - '#2F2017'
     - '#FDFFFA'
     - '#915D26'
     - '#FCDF77'
-typography_spectrum: 0.0477651
+  rhythmicContrast: 0.9761706
+layout_spectrum: 1
+name: Kerala.nu
